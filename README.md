@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Masoud 👋
+### Cloud & Technical Project Manager | AWS & Agile Operations
 
-<!--
-**masoud-shafiezadeh-neyestanak/Masoud-Shafiezadeh-Neyestanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between legal/business strategy, Agile project management, and cloud architecture. Currently focusing on designing scalable AWS solutions and structuring IT operational workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tech Stack
+- **Project Management:** Agile / Scrum / Kanban, Asana, Google Workspace, Project Chartering, Risk & Stakeholder Management
+- **Cloud & Infrastructure:** AWS (EC2, S3, VPC, RDS, IAM, CloudFront), Linux, Docker, Bash, Python
+- **Certifications:** Google Project Management Professional Certificate | AWS SAA (In Progress)
+
+---
+
+### 📂 Featured Focus Areas
+- **Project Operations:** Standardized PM artifacts and frameworks for IT businesses.
+- **AWS Cloud Projects:** Hands-on infrastructure deployment and multi-tier architectures.
+
+---
+
+📫 **Connect with me:**
+[LinkedIn](https://www.linkedin.com/in/masoud-shafiezadeh/)
