@@ -1,5 +1,5 @@
 # Hi, I'm Masoud 👋
-### Cloud & Technical Project Manager | AWS & Agile Operation
+### Cloud & Technical Project Manager | AWS & Agile Operations
 
 I bridge the gap between legal/business strategy, Agile project management, and cloud architecture. Currently focusing on designing scalable AWS solutions and structuring IT operational workflows.
 
